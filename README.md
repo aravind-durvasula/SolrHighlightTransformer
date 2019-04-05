@@ -1,4 +1,4 @@
-# SolrHightlightTransformer
+# SolrHighlightTransformer
 
 The emphasised tags in solr highlight response has been tranformed into a chain of html anchor tags using href and id links.
 
